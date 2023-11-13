@@ -7,4 +7,4 @@ Hello, I'm Landon, a passionate programmer with 1-2 years of experience and coun
 
 Need to contact me about any inquires? Feel free to [email me](mailto:).
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1165020402175705139?idleMessage=Probably%20sleeping.%20🌙)](https://discord.com/users/1165020402175705139)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1165020402175705139?idleMessage=Most%20likely%20sleeping.%20🌙)](https://discord.com/users/1165020402175705139)
